@@ -27,7 +27,7 @@ Simple bitwise manipulation:
 - [ ] https://leetcode.com/problems/single-number
 
 Hashmaps and sets:
-- [ ] https://leetcode.com/problems/two-sum
+- [X] https://leetcode.com/problems/two-sum
 - [ ] https://leetcode.com/problems/valid-anagram
 
 Union find:
