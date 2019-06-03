@@ -36,6 +36,6 @@ def main(folder):
         print("OS error: {0}".format(err))
 
 if __name__=="__main__":
-    main("week1/")
+    main("week2/")
 
     
