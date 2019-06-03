@@ -1,12 +1,12 @@
 # Week 1 Checklist
 
 Arrays:
-- [ ] https://leetcode.com/problems/sort-array-by-parity
+- [X] https://leetcode.com/problems/sort-array-by-parity
 - [ ] https://leetcode.com/problems/transpose-matrix
 - [ ] https://leetcode.com/problems/flipping-an-image
 
 Basic math:
-- [ ] https://leetcode.com/problems/self-dividing-numbers
+- [X] https://leetcode.com/problems/self-dividing-numbers
 - [ ] https://leetcode.com/problems/fizz-buzz
 - [ ] https://leetcode.com/problems/plus-one
 - [ ] https://leetcode.com/problems/excel-sheet-column-number
