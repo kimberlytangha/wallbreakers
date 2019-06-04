@@ -1,6 +1,8 @@
 // simiar to friend circles problem (leetcode #547) 
 class Solution {
 public:
+    // time is O(??) how to find time for dfs?
+    // space is O(1) bc we don't use any additional
     int numIslands(vector<vector<char>>& grid) {
         int count = 0; 
         

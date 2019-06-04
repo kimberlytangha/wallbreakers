@@ -2,6 +2,8 @@
 
 class Solution {
 public:
+    // time is O(??) how to find time for dfs?
+    // space is O(n) where n is the number of friends 
     int findCircleNum(vector<vector<int>>& M) {
         
         int numCircles = 0; 
