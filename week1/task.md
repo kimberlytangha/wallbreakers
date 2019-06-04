@@ -44,9 +44,9 @@ Simple string manipulation:
 
 Simple bitwise manipulation:
 - [ ] https://leetcode.com/problems/number-complement
-- [ ] https://leetcode.com/problems/hamming-distance
+- [X] https://leetcode.com/problems/hamming-distance
 - [X] https://leetcode.com/problems/binary-gap
-- [ ] https://leetcode.com/problems/single-number
+- [X] https://leetcode.com/problems/single-number
 
 Hashmaps and sets:
 - [X] https://leetcode.com/problems/two-sum
