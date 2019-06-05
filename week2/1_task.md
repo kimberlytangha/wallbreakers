@@ -43,3 +43,5 @@ Tries
 - [ ] https://leetcode.com/problems/longest-word-in-dictionary
 - [ ] https://leetcode.com/problems/implement-trie-prefix-tree
 - [ ] https://leetcode.com/problems/word-search-ii
+
+0/23 questions
