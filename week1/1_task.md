@@ -24,18 +24,18 @@ Upload all solutions to github
 
 Arrays:
 - [X] https://leetcode.com/problems/sort-array-by-parity
-- [ ] https://leetcode.com/problems/transpose-matrix
+- [X] https://leetcode.com/problems/transpose-matrix
 - [ ] https://leetcode.com/problems/flipping-an-image
 
 Basic math:
 - [X] https://leetcode.com/problems/self-dividing-numbers
-- [ ] https://leetcode.com/problems/fizz-buzz
+- [X] https://leetcode.com/problems/fizz-buzz
 - [ ] https://leetcode.com/problems/plus-one
 - [ ] https://leetcode.com/problems/excel-sheet-column-number
 - [ ] https://leetcode.com/problems/power-of-two
 
 Simple string manipulation:
-- [ ] https://leetcode.com/problems/reverse-string
+- [X] https://leetcode.com/problems/reverse-string
 - [ ] https://leetcode.com/problems/detect-capital
 - [ ] https://leetcode.com/problems/reverse-words-in-a-string-iii
 - [ ] https://leetcode.com/problems/valid-palindrome
@@ -43,14 +43,14 @@ Simple string manipulation:
 - [ ] https://leetcode.com/problems/longest-common-prefix
 
 Simple bitwise manipulation:
-- [ ] https://leetcode.com/problems/number-complement
+- [X] https://leetcode.com/problems/number-complement
 - [X] https://leetcode.com/problems/hamming-distance
 - [X] https://leetcode.com/problems/binary-gap
 - [X] https://leetcode.com/problems/single-number
 
 Hashmaps and sets:
 - [X] https://leetcode.com/problems/two-sum
-- [ ] https://leetcode.com/problems/valid-anagram
+- [X] https://leetcode.com/problems/valid-anagram
 
 Union find:
 - [X] https://leetcode.com/problems/friend-circles
