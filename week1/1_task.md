@@ -25,20 +25,20 @@ Upload all solutions to github
 Arrays:
 - [X] https://leetcode.com/problems/sort-array-by-parity
 - [X] https://leetcode.com/problems/transpose-matrix
-- [ ] https://leetcode.com/problems/flipping-an-image
+- [X] https://leetcode.com/problems/flipping-an-image
 
 Basic math:
 - [X] https://leetcode.com/problems/self-dividing-numbers
 - [X] https://leetcode.com/problems/fizz-buzz
-- [ ] https://leetcode.com/problems/plus-one
-- [ ] https://leetcode.com/problems/excel-sheet-column-number
-- [ ] https://leetcode.com/problems/power-of-two
+- [X] https://leetcode.com/problems/plus-one
+- [X] https://leetcode.com/problems/excel-sheet-column-number
+- [X] https://leetcode.com/problems/power-of-two
 
 Simple string manipulation:
 - [X] https://leetcode.com/problems/reverse-string
 - [ ] https://leetcode.com/problems/detect-capital
 - [ ] https://leetcode.com/problems/reverse-words-in-a-string-iii
-- [ ] https://leetcode.com/problems/valid-palindrome
+- [X] https://leetcode.com/problems/valid-palindrome
 - [ ] https://leetcode.com/problems/reverse-vowels-of-a-string
 - [ ] https://leetcode.com/problems/longest-common-prefix
 
@@ -57,4 +57,4 @@ Union find:
 - [X] https://leetcode.com/problems/number-of-islands
 - [ ] https://leetcode.com/problems/surrounded-regions
 
-0/28 questions
+18/23 questions

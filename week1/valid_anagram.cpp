@@ -49,6 +49,9 @@ public:
         // increment or decrement freq array
         // after looping through s and t, eách char freq 
         // should be net 0 
+        
+        // store length of string/ vector in variable!
+        // s.length() => so you're not calling it constantly
         for (int i = 0; i < s.length(); i++) {
             freq[s[i] - 'a']++; 
             freq[t[i] - 'a']--;
