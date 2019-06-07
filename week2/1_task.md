@@ -1,5 +1,7 @@
 # WallBreakers Week #2
 
+https://docs.google.com/document/d/1zFVUb2pPsd11VLWp0-gdVhv1DihA4ni9RVbU93CilT8/edit#
+
 Goals For This Week
 
 Hash maps and hash sets are arguably the most important data structures you will need for coding interviews, as you might have noticed this during our first mock interview. They come up all the time either directly, or indirectly (say as part of memorization, building a graph, etc.). This week we want to make sure you are very comfortable using hash maps and hash sets in your language of choice. You should be able to use them without needing to try to remember or look up the right API or syntax. We will also look at multisets which are a special type of hash maps used for counting occurrences of objects.
