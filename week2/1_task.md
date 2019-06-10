@@ -16,9 +16,9 @@ Week #2 Coding Exercises
 
 Hash maps and hash sets
 - [ ] https://leetcode.com/problems/jewels-and-stones
-- [ ] https://leetcode.com/problems/unique-morse-code-words
-- [ ] https://leetcode.com/problems/happy-number
-- [ ] https://leetcode.com/problems/uncommon-words-from-two-sentences
+- [X] https://leetcode.com/problems/unique-morse-code-words
+- [X] https://leetcode.com/problems/happy-number
+- [X] https://leetcode.com/problems/uncommon-words-from-two-sentences
 - [ ] https://leetcode.com/problems/distribute-candies
 - [ ] https://leetcode.com/problems/groups-of-special-equivalent-strings
 - [ ] https://leetcode.com/problems/intersection-of-two-arrays
@@ -43,7 +43,7 @@ This one is more difficult than the average interview question but it is good ex
 
 Tries
 - [ ] https://leetcode.com/problems/longest-word-in-dictionary
-- [ ] https://leetcode.com/problems/implement-trie-prefix-tree
+- [ ] https://leetcode.com/problems/implement-t rie-prefix-tree
 - [ ] https://leetcode.com/problems/word-search-ii
 
 0/23 questions
