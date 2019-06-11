@@ -19,17 +19,17 @@ Hash maps and hash sets
 - [X] https://leetcode.com/problems/unique-morse-code-words
 - [X] https://leetcode.com/problems/happy-number
 - [X] https://leetcode.com/problems/uncommon-words-from-two-sentences
-- [ ] https://leetcode.com/problems/distribute-candies
-- [ ] https://leetcode.com/problems/groups-of-special-equivalent-strings
-- [ ] https://leetcode.com/problems/intersection-of-two-arrays
+- [X] https://leetcode.com/problems/distribute-candies
+- [X] https://leetcode.com/problems/groups-of-special-equivalent-strings
+- [X] https://leetcode.com/problems/intersection-of-two-arrays
 - [ ] https://leetcode.com/problems/valid-sudoku
 - [ ] https://leetcode.com/problems/isomorphic-strings
-- [ ] https://leetcode.com/problems/word-pattern
+- [X] https://leetcode.com/problems/word-pattern
 - [ ] https://leetcode.com/problems/design-hashmap
 - [ ] https://leetcode.com/problems/design-hashset
 
 Multisets
-- [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string
+- [X] https://leetcode.com/problems/find-all-anagrams-in-a-string
 Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. How do the two solutions compare?
 - [ ] https://leetcode.com/problems/first-unique-character-in-a-string
 - [ ] https://leetcode.com/problems/subdomain-visit-count
@@ -46,4 +46,4 @@ Tries
 - [ ] https://leetcode.com/problems/implement-t rie-prefix-tree
 - [ ] https://leetcode.com/problems/word-search-ii
 
-0/23 questions
+8/23 questions
