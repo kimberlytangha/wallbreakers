@@ -15,7 +15,7 @@ Complete the weekly progress report form by EOD Sunday, May 12th.
 Week #2 Coding Exercises
 
 Hash maps and hash sets
-- [ ] https://leetcode.com/problems/jewels-and-stones
+- [X] https://leetcode.com/problems/jewels-and-stones
 - [X] https://leetcode.com/problems/unique-morse-code-words
 - [X] https://leetcode.com/problems/happy-number
 - [X] https://leetcode.com/problems/uncommon-words-from-two-sentences
@@ -23,7 +23,7 @@ Hash maps and hash sets
 - [X] https://leetcode.com/problems/groups-of-special-equivalent-strings
 - [X] https://leetcode.com/problems/intersection-of-two-arrays
 - [ ] https://leetcode.com/problems/valid-sudoku
-- [ ] https://leetcode.com/problems/isomorphic-strings
+- [X] https://leetcode.com/problems/isomorphic-strings
 - [X] https://leetcode.com/problems/word-pattern
 - [ ] https://leetcode.com/problems/design-hashmap
 - [ ] https://leetcode.com/problems/design-hashset
@@ -31,11 +31,11 @@ Hash maps and hash sets
 Multisets
 - [X] https://leetcode.com/problems/find-all-anagrams-in-a-string
 Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. How do the two solutions compare?
-- [ ] https://leetcode.com/problems/first-unique-character-in-a-string
+- [X] https://leetcode.com/problems/first-unique-character-in-a-string
 - [ ] https://leetcode.com/problems/subdomain-visit-count
 - [ ] https://leetcode.com/problems/find-the-difference
-- [ ] https://leetcode.com/problems/most-common-word
-- [ ] https://leetcode.com/problems/sort-characters-by-frequency
+- [X] https://leetcode.com/problems/most-common-word
+- [X] https://leetcode.com/problems/sort-characters-by-frequency
 - [ ] https://leetcode.com/problems/set-mismatch
 This one has a few “clever” solutions but feel free to use a simple multiset solution.
 - [ ] https://leetcode.com/problems/number-of-atoms
