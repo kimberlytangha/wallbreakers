@@ -1,15 +1,20 @@
 202. Happy Number
 https://leetcode.com/problems/happy-number/description/
-- WEEK 2
 - Came up with sub optimal solution
 - Divide by 10 removes the ones place of n (bc of flooring property of INT division) 
 - % 10 returns the ones place digit 
 - Find more optimal solution!
 
 
+205. Isomorphic Strings
+https://leetcode.com/problems/isomorphic-strings/description/
+- Found suboptimal solution using two HM
+- Pattern: using 2 HM to store the same kind of value (indicies of where a character appears) and check if the indicies are the same given a pair.
+- ee/ pk => e and p have index 0 stored. Then e has index 0 while k has index -1 (return false)
+
+
 290. Word Pattern
 https://leetcode.com/problems/word-pattern/description/
-- WEEK 2
 - Came up with suboptimal solution 
 - Pattern found: Using 2 hash map to check for unique pattern->str and str->pattern 
 - Coding issues: meant to use pmap[c] != word, not pmap.find(c) != pmap.end() to check if the value of key (C) matches current word. Also missed edge case where pattern is the same as the str; in this case, check pIdx reaches the end of pattern. 
@@ -21,9 +26,16 @@ i = j;
 - Thoughts: how to restructure looking in two maps? How to do at same time? 
 
 
+349. Intersection of Two Arrays
+https://leetcode.com/problems/intersection-of-two-arrays/description/
+- Found solution O(n^2); double for loop and find common elements to add to set
+- Pattern: Use set to keep track of elements without duplicates. 
+- Try to reduce to O(n) time if n^2.
+- Optimized solution was to create set using one array. Cross check second array against set and erase if in set. Add unique element out vector. 
+
+
 387. First Unique Character in a String
 https://leetcode.com/problems/first-unique-character-in-a-string/description/
-- WEEK 2
 - Came up with suboptimal solution O(n)
 - Pattern: Using letter - 'a' as an index into datastructure, using HM to store frequencies
 - Coding mistaks: Forgot to use letter - 'a' when indexing into HM
@@ -32,25 +44,33 @@ https://leetcode.com/problems/first-unique-character-in-a-string/description/
 
 438. Find All Anagrams in a String
 https://leetcode.com/problems/find-all-anagrams-in-a-string/description/
-- WEEK 2
 - Solution doesn't work...not sure why? 
 - Had a lot of bugs + didn't catch edge case (always check bounds of sliding door implementation!!)
 - Pattern: Sliding door problem 
 - Keep getting type: length of strings => accidentally put s.length() twice instead of s.length() and p.length()
 
 
+451. Sort Characters By Frequency
+https://leetcode.com/problems/sort-characters-by-frequency/description/
+- Came up with partial logic to solve, just couldn't figure out how to implement ordering frequencies
+- REDO - come up with several ways to sort by frequency in HM or other ways to solve problem 
+
+
 575. Distribute Candies
 https://leetcode.com/problems/distribute-candies/description/
-- WEEK 2
 - Had no idea how to approach problem. Came up with part of solution (needed to split candies evenly between brother/ sister at minimum) 
 - Pattern: Sister could not get more than half! Use set to determine how many unique candies there area and chose between that number of half of entire candies. 
 - REDO
 - What is time complexity of copying constructor of set? 
 
 
+771. Jewels and Stones
+https://leetcode.com/problems/jewels-and-stones/description/
+- Carefully read problems (set problems are somewhat confusing to me)
+
+
 804. Unique Morse Code Words
 https://leetcode.com/problems/unique-morse-code-words/description/
-- WEEK 2
 - Came up with optimal time solution
 - Utilized vector indicies to retrieve correct morse code for a given char 
 - Used set to store unique morse codes (despite various readings of it) 
@@ -59,7 +79,6 @@ https://leetcode.com/problems/unique-morse-code-words/description/
 
 819. Most Common Word
 https://leetcode.com/problems/most-common-word/description/
-- WEEK 2
 - Logic was correct for solution; struggled ONLY with string cleaning! 
 - for auto loop/ isalpha(char) used for lowercasing + clean string of punctuation
 - Use istringstream iss(str) for accessing each word in string seperated by space. Use while (iss >> word) {} loop. 
@@ -70,9 +89,15 @@ https://leetcode.com/problems/most-common-word/description/
 - Time complexities of istringstream + set(bd.begin(), bd.end()) constructor ? 
 
 
+884. Uncommon Words from Two Sentences
+https://leetcode.com/problems/uncommon-words-from-two-sentences/description/
+- Careful deciding what to increment j-pointer using double pointers for identifying words seperated by spaces
+- Came up with sub-optimal solution! Yay. 
+- Try redoing with sets!
+
+
 893. Groups of Special-Equivalent Strings
 https://leetcode.com/problems/groups-of-special-equivalent-strings/description/
-- WEEK 2
 - Phrasing of set problems is EXTREMELY confusing (many in week 2 I didn't understand); this problem made no sense to me.
 - Wouldn't recommend redoing bc description still makes no sense. 
 - Pattern: realize you need an unordered_set to keep track of the word signatures
