@@ -1,4 +1,5 @@
 202. Happy Number
+https://leetcode.com/problems/happy-number/description/
 - WEEK 2
 - Came up with sub optimal solution
 - Divide by 10 removes the ones place of n (bc of flooring property of INT division) 
@@ -7,6 +8,7 @@
 
 
 290. Word Pattern
+https://leetcode.com/problems/word-pattern/description/
 - WEEK 2
 - Came up with suboptimal solution 
 - Pattern found: Using 2 hash map to check for unique pattern->str and str->pattern 
@@ -20,6 +22,7 @@ i = j;
 
 
 387. First Unique Character in a String
+https://leetcode.com/problems/first-unique-character-in-a-string/description/
 - WEEK 2
 - Came up with suboptimal solution O(n)
 - Pattern: Using letter - 'a' as an index into datastructure, using HM to store frequencies
@@ -28,6 +31,7 @@ i = j;
 
 
 438. Find All Anagrams in a String
+https://leetcode.com/problems/find-all-anagrams-in-a-string/description/
 - WEEK 2
 - Solution doesn't work...not sure why? 
 - Had a lot of bugs + didn't catch edge case (always check bounds of sliding door implementation!!)
@@ -36,6 +40,7 @@ i = j;
 
 
 575. Distribute Candies
+https://leetcode.com/problems/distribute-candies/description/
 - WEEK 2
 - Had no idea how to approach problem. Came up with part of solution (needed to split candies evenly between brother/ sister at minimum) 
 - Pattern: Sister could not get more than half! Use set to determine how many unique candies there area and chose between that number of half of entire candies. 
@@ -44,6 +49,7 @@ i = j;
 
 
 804. Unique Morse Code Words
+https://leetcode.com/problems/unique-morse-code-words/description/
 - WEEK 2
 - Came up with optimal time solution
 - Utilized vector indicies to retrieve correct morse code for a given char 
@@ -52,6 +58,7 @@ i = j;
 
 
 819. Most Common Word
+https://leetcode.com/problems/most-common-word/description/
 - WEEK 2
 - Logic was correct for solution; struggled ONLY with string cleaning! 
 - for auto loop/ isalpha(char) used for lowercasing + clean string of punctuation
@@ -64,6 +71,7 @@ i = j;
 
 
 893. Groups of Special-Equivalent Strings
+https://leetcode.com/problems/groups-of-special-equivalent-strings/description/
 - WEEK 2
 - Phrasing of set problems is EXTREMELY confusing (many in week 2 I didn't understand); this problem made no sense to me.
 - Wouldn't recommend redoing bc description still makes no sense. 
