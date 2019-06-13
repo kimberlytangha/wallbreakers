@@ -32,13 +32,13 @@ Multisets
 - [X] https://leetcode.com/problems/find-all-anagrams-in-a-string
 Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. How do the two solutions compare?
 - [X] https://leetcode.com/problems/first-unique-character-in-a-string
-- [ ] https://leetcode.com/problems/subdomain-visit-count
-- [ ] https://leetcode.com/problems/find-the-difference
+- [?] https://leetcode.com/problems/subdomain-visit-count
+- [X] https://leetcode.com/problems/find-the-difference
 - [X] https://leetcode.com/problems/most-common-word
 - [X] https://leetcode.com/problems/sort-characters-by-frequency
-- [ ] https://leetcode.com/problems/set-mismatch
+- [X] https://leetcode.com/problems/set-mismatch
 This one has a few “clever” solutions but feel free to use a simple multiset solution.
-- [ ] https://leetcode.com/problems/number-of-atoms
+- [?] https://leetcode.com/problems/number-of-atoms
 This one is more difficult than the average interview question but it is good exercise! You will need to build a simple parser in addition to using a multiset.
 
 Tries
@@ -46,4 +46,4 @@ Tries
 - [ ] https://leetcode.com/problems/implement-t rie-prefix-tree
 - [ ] https://leetcode.com/problems/word-search-ii
 
-8/23 questions
+16/23 questions
