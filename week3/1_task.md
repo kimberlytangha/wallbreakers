@@ -28,7 +28,7 @@ Binary search
 - [ ] https://leetcode.com/problems/peak-index-in-a-mountain-array
 
 Sorting
-- [ ] https://leetcode.com/problems/valid-anagram
+- [X] https://leetcode.com/problems/valid-anagram
 - [ ] https://leetcode.com/problems/array-partition-i
 - [ ] https://leetcode.com/problems/merge-intervals
 - [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string
@@ -50,3 +50,4 @@ Dynamic Programming: same problems as above, but use dynamic programming this ti
 Do not use a built-in regex for this one
 
 0/20 questions
+0/15 questions
