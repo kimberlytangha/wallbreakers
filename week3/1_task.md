@@ -39,14 +39,14 @@ Recursion and memoization: make sure you use memoization if applicable for the p
 - [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 - [ ] https://leetcode.com/problems/edit-distance
 - [ ] https://leetcode.com/problems/house-robber-ii
-- [ ] https://leetcode.com/problems/regular-expression-matching/
+- [ ] https://leetcode.com/problems/regular-expression-matching
 Do not use a built-in regex for this one
 
 Dynamic Programming: same problems as above, but use dynamic programming this time
 - [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 - [ ] https://leetcode.com/problems/edit-distance
 - [ ] https://leetcode.com/problems/house-robber-ii
-- [ ] https://leetcode.com/problems/regular-expression-matching/
+- [ ] https://leetcode.com/problems/regular-expression-matching
 Do not use a built-in regex for this one
 
-1/20 questions
+4/20 questions
