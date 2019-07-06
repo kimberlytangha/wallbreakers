@@ -17,8 +17,8 @@ Week #3 Coding Exercises
 Problems are grouped by applicable problem solving strategy here. Within each group problems appear in roughly increasing order of difficulty. If you get stuck on a problem in one group, you can switch to a problem in another group and go back later. This can help make sure you keep making progress.
 
 Greedy algorithms
-- [ ] https://leetcode.com/problems/lemonade-change
-- [ ] https://leetcode.com/problems/assign-cookies
+- [X] https://leetcode.com/problems/lemonade-change
+- [X] https://leetcode.com/problems/assign-cookies
 - [ ] https://leetcode.com/problems/is-subsequence
 - [ ] https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
 - [ ] https://leetcode.com/problems/partition-labels
@@ -29,7 +29,7 @@ Binary search
 
 Sorting
 - [X] https://leetcode.com/problems/valid-anagram
-- [ ] https://leetcode.com/problems/array-partition-i
+- [X] https://leetcode.com/problems/array-partition-i
 - [ ] https://leetcode.com/problems/merge-intervals
 - [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string
 Use sorting, not a multiset (you solved this problem using a multiset last week) 
@@ -49,5 +49,4 @@ Dynamic Programming: same problems as above, but use dynamic programming this ti
 - [ ] https://leetcode.com/problems/regular-expression-matching/
 Do not use a built-in regex for this one
 
-0/20 questions
-0/15 questions
+1/20 questions
