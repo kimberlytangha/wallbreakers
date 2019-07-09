@@ -40,8 +40,8 @@ public:
             if (st[s[i]] != ts[t[i]])
                 return false;
             
-            st[s[i]] = i + 1; 
-            ts[t[i]] = i + 1; 
+            st[s[i]] = i; 
+            ts[t[i]] = i; 
         }
         
         return true; 
