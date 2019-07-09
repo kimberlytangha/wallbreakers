@@ -19,9 +19,9 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 Greedy algorithms
 - [X] https://leetcode.com/problems/lemonade-change
 - [X] https://leetcode.com/problems/assign-cookies
-- [ ] https://leetcode.com/problems/is-subsequence
+- [X] https://leetcode.com/problems/is-subsequence
 - [ ] https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
-- [ ] https://leetcode.com/problems/partition-labels
+- [X] https://leetcode.com/problems/partition-labels
 
 Binary search
 - [ ] https://leetcode.com/problems/binary-search
@@ -49,4 +49,4 @@ Dynamic Programming: same problems as above, but use dynamic programming this ti
 - [ ] https://leetcode.com/problems/regular-expression-matching
 Do not use a built-in regex for this one
 
-4/20 questions
+6/20 questions
