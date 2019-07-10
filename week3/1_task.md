@@ -24,8 +24,8 @@ Greedy algorithms
 - [X] https://leetcode.com/problems/partition-labels
 
 Binary search
-- [ ] https://leetcode.com/problems/binary-search
-- [ ] https://leetcode.com/problems/peak-index-in-a-mountain-array
+- [X] https://leetcode.com/problems/binary-search
+- [X] https://leetcode.com/problems/peak-index-in-a-mountain-array
 
 Sorting
 - [X] https://leetcode.com/problems/valid-anagram
@@ -35,8 +35,8 @@ Sorting
 Use sorting, not a multiset (you solved this problem using a multiset last week) 
 
 Recursion and memoization: make sure you use memoization if applicable for the problems below
-- [ ] https://leetcode.com/problems/powx-n
-- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+- [X] https://leetcode.com/problems/powx-n
+- [X] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 - [ ] https://leetcode.com/problems/edit-distance
 - [ ] https://leetcode.com/problems/house-robber-ii
 - [ ] https://leetcode.com/problems/regular-expression-matching
@@ -49,4 +49,4 @@ Dynamic Programming: same problems as above, but use dynamic programming this ti
 - [ ] https://leetcode.com/problems/regular-expression-matching
 Do not use a built-in regex for this one
 
-6/20 questions
+10/20 questions
