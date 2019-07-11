@@ -1,4 +1,7 @@
-// iterative solution 
+////////////////
+// Iterative  //
+////////////////
+
 class Solution {
 public:
 

@@ -1,7 +1,8 @@
 class Solution {
 public:
 
-    // O(nlogn) for sorting 
+    // time O(nlogn) for sorting 
+    // space O(1)
     bool isAnagram(string s, string t) {
         if (s.size() != t.size()) 
             return false;

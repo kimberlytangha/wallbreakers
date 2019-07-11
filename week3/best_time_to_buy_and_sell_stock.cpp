@@ -27,7 +27,7 @@ public:
 // with selling day on end => [begin, end]
 // reassign maxProfit continually 
 // 
-// time O(??)
+// time O(??) - not sure!
 // space O(n)
 class Solution {
 public:
