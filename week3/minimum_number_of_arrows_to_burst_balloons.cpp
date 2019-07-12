@@ -41,29 +41,34 @@ public:
 // Sort using x-start //
 ////////////////////////
 
+// key difference between this and above solution is that you need 
+// to traverse in reverse (back to front) and use the x-start as 
+// your arrow position
 class Solution {
 public:
     int findMinArrowShots(vector<vector<int>>& points) {
-        int size = points.size();
-        int numArrows = 0; 
-        int i = size - 1; 
+        int numPts = points.size();
+        int arrows = 0; 
+        // start i at end 
+        int i = numPts - 1; 
         
         sort(points.begin(), points.end(), sortSecond);
         
         // traverse from end to beginning of vector
         while (i >= 0) {
-            numArrows++; 
-            int posArrow = points[i][0]; 
+            arrows++; 
+            // look at x-start [0] instead of x-end [1]
+            int arrowPos = points[i][0]; 
             
             // careful with i ptr here bc it can go below 0
             // and you jump out of loop without considering
             // the remaining first element 
-            while (i >= 1 && points[i-1][1] >= posArrow)
+            while (i >= 1 && points[i-1][1] >= arrowPos)
                 i--; 
             i--; 
         }
         
-        return numArrows; 
+        return arrows; 
     }
     
     static bool sortSecond(vector<int> &a, vector<int> &b) {
