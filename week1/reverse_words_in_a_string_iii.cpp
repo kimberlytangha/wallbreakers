@@ -25,3 +25,35 @@ public:
         }
     }
 };
+
+// String parsing using istringstream 
+class Solution {
+public:
+    // time O(??)
+    string reverseWords(string s) {
+        if (s.empty())
+            return s;
+        
+        // initalize with s
+        istringstream iss(s);
+        string res;
+        
+        // loop through stream 
+        for (string word; iss >> word; ) {
+            int l = 0; 
+            int r = word.length() - 1; 
+            
+            // reverse each word 
+            while (l <= r)
+                swap(word[l++],word[r--]);
+                
+            res += word + " "; 
+        }
+        
+        // remove space at end
+        // res.erase(res.end()); 
+        res.erase(res.length()-1, 1);
+        
+        return res;
+    }
+};
