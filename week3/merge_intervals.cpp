@@ -27,9 +27,6 @@ public:
                 i++; 
             }
             
-            // bool h = i < n;
-            // printf("%i %i %hhd\n", i, n, h);
-            
             res.push_back({left, right});
         }
         
