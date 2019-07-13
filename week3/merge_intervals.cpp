@@ -21,9 +21,9 @@ public:
             i++; 
             // check right against all subsequent lefts
             while (i < n && intervals[i][0] <= right) {
-                // interval overlaps so extend range of left/ right
+                // interval overlaps so extend range of right
+                // don't need to update left 
                 right = max(intervals[i][1], right);
-                left = min(intervals[i][0], left);
                 i++; 
             }
             
