@@ -30,7 +30,7 @@ Binary search
 Sorting
 - [X] https://leetcode.com/problems/valid-anagram
 - [X] https://leetcode.com/problems/array-partition-i
-- [ ] https://leetcode.com/problems/merge-intervals
+- [X] https://leetcode.com/problems/merge-intervals
 - [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string
 Use sorting, not a multiset (you solved this problem using a multiset last week) 
 

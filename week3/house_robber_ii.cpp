@@ -49,3 +49,42 @@ public:
         return res; 
     }
 };
+
+/////////////////////////
+// Dynamic Programming //
+/////////////////////////
+class Solution {
+public:
+    // Applies same logic as recursive solution 
+    int rob(vector<int>& nums) {
+        int n = nums.size(); 
+        if (n == 0) 
+            return 0; 
+        else if (n == 1)
+            return nums[0]; 
+        
+        vector<int> noFirst(nums.begin() + 1, nums.end());
+        int profit1 = checkHomes(noFirst);
+        
+        vector<int> noLast(nums.begin(), nums.end() - 1);
+        int profit2 = checkHomes(noLast);
+        
+        return max(profit1, profit2);
+    }
+    
+    // See house_robber_i.cpp
+    // Based on f(k) = max( f(k-2) + nums[k], f(k-1) )
+    int checkHomes(vector<int> &nums) {
+        int p1 = 0;
+        int p2 = 0;
+        int curr = 0; 
+        
+        for (int i = 0; i < nums.size(); i++) {
+            p2 = p1;            // f(k-2)
+            p1 = curr;          // f(k-1)
+            curr = max(p2 + nums[i], p1);
+        }
+        
+        return curr; 
+    }
+};
