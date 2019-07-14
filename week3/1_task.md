@@ -44,9 +44,9 @@ Do not use a built-in regex for this one
 
 Dynamic Programming: same problems as above, but use dynamic programming this time
 - [X] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-- [ ] https://leetcode.com/problems/edit-distance
+- [X] https://leetcode.com/problems/edit-distance
 - [X] https://leetcode.com/problems/house-robber-ii
 - [ ] https://leetcode.com/problems/regular-expression-matching
 Do not use a built-in regex for this one
 
-14/20 questions
+16/20 questions
