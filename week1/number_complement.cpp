@@ -8,16 +8,17 @@ public:
         int cpy = num; 
         int numBits = 0; 
         
-        // count how many bits num uses 
         while (cpy > 0) {
-            numBits++; 
+            numBits++;
+            // want to see how many bits there are so divide by 2
+            // Ex.) 8 4 2 1
+            // .    0 1 0 0     num = 5
             cpy /= 2; 
         }
         
-        // find highest binary that uses the same number of bits as num 
-        int maxBin = pow(2, numBits) - 1; 
-        
-        // invert num's bits
-        return num ^ maxBin;  
+        // 0 1 0 0     num = 5
+        // 0 1 1 1     ones = 7 
+        int ones = pow(2, numBits) - 1; 
+        return num ^ pow(2, numBits) - 1; 
     }
 };
