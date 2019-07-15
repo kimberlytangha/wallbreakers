@@ -16,8 +16,8 @@ Week #4 Coding Exercises
 Problems are grouped by applicable problem solving strategy here. Within each group problems appear in roughly increasing order of difficulty. If you get stuck on a problem in one group, you can switch to a problem in another group and go back later. This can help make sure you keep making progress.
 
 Linked lists
-- [ ] https://leetcode.com/problems/reverse-linked-list
-- [ ] https://leetcode.com/problems/odd-even-linked-list
+- [X] https://leetcode.com/problems/reverse-linked-list
+- [X] https://leetcode.com/problems/odd-even-linked-list
 - [ ] https://leetcode.com/problems/reverse-nodes-in-k-group
 - [ ] https://leetcode.com/problems/lru-cache
 Hint: This one is a bit harder. You will need to use a doubly linked list and a hash map to get O(1) time complexity for both operations.
@@ -25,7 +25,7 @@ Hint: This one is a bit harder. You will need to use a doubly linked list and a 
 Stacks
 - [ ] https://leetcode.com/problems/baseball-game
 - [ ] https://leetcode.com/problems/next-greater-element-i
-- [ ] https://leetcode.com/problems/valid-parentheses
+- [X] https://leetcode.com/problems/valid-parentheses
 - [ ] https://leetcode.com/problems/score-of-parentheses
 
 Queues
@@ -40,7 +40,7 @@ Heaps
 Combinatorial generation
 - [ ] https://leetcode.com/problems/subsets
 - [ ] https://leetcode.com/problems/permutations
-- [ ] https://leetcodwe.com/problems/combinations
+- [ ] https://leetcode.com/problems/combinations
 - [ ] https://leetcode.com/problems/generate-parentheses
 - [ ] https://leetcode.com/problems/gray-code
 
@@ -50,4 +50,4 @@ Backtracking
 - [ ] https://leetcode.com/problems/partition-to-k-equal-sum-subsets
 - [ ] https://leetcode.com/problems/sudoku-solver
 
-0/22 questions
+3/22 questions
