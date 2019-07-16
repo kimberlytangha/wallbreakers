@@ -19,7 +19,7 @@ Linked lists
 - [X] https://leetcode.com/problems/reverse-linked-list
 - [X] https://leetcode.com/problems/odd-even-linked-list
 - [ ] https://leetcode.com/problems/reverse-nodes-in-k-group
-- [ ] https://leetcode.com/problems/lru-cache
+- [-] https://leetcode.com/problems/lru-cache
 Hint: This one is a bit harder. You will need to use a doubly linked list and a hash map to get O(1) time complexity for both operations.
 
 Stacks
@@ -45,9 +45,9 @@ Combinatorial generation
 - [ ] https://leetcode.com/problems/gray-code
 
 Backtracking
-- [ ] https://leetcode.com/problems/combination-sum
-- [ ] https://leetcode.com/problems/partition-equal-subset-sum
-- [ ] https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+- [-] https://leetcode.com/problems/combination-sum
+- [X] https://leetcode.com/problems/partition-equal-subset-sum
+- [X] https://leetcode.com/problems/partition-to-k-equal-sum-subsets
 - [ ] https://leetcode.com/problems/sudoku-solver
 
-3/22 questions
+5/22 questions
