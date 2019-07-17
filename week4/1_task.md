@@ -23,15 +23,15 @@ Linked lists
 Hint: This one is a bit harder. You will need to use a doubly linked list and a hash map to get O(1) time complexity for both operations.
 
 Stacks
-- [ ] https://leetcode.com/problems/baseball-game
-- [ ] https://leetcode.com/problems/next-greater-element-i
+- [X] https://leetcode.com/problems/baseball-game
+- [X] https://leetcode.com/problems/next-greater-element-i
 - [X] https://leetcode.com/problems/valid-parentheses
 - [ ] https://leetcode.com/problems/score-of-parentheses
 
 Queues
 - [ ] https://leetcode.com/problems/implement-stack-using-queues
-- [ ] https://leetcode.com/problems/implement-queue-using-stacks
-- [ ] https://leetcode.com/problems/rotate-array
+- [X] https://leetcode.com/problems/implement-queue-using-stacks
+- [X] https://leetcode.com/problems/rotate-array
 
 Heaps
 - [ ] https://leetcode.com/problems/top-k-frequent-elements
@@ -50,4 +50,4 @@ Backtracking
 - [X] https://leetcode.com/problems/partition-to-k-equal-sum-subsets
 - [ ] https://leetcode.com/problems/sudoku-solver
 
-5/22 questions
+9/22 questions
