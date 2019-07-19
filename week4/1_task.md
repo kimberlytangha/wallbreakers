@@ -38,10 +38,10 @@ Heaps
 - [ ] https://leetcode.com/problems/merge-k-sorted-lists
 
 Combinatorial generation
-- [ ] https://leetcode.com/problems/subsets
-- [ ] https://leetcode.com/problems/permutations
-- [ ] https://leetcode.com/problems/combinations
-- [ ] https://leetcode.com/problems/generate-parentheses
+- [X] https://leetcode.com/problems/subsets
+- [X] https://leetcode.com/problems/permutations
+- [X] https://leetcode.com/problems/combinations
+- [X] https://leetcode.com/problems/generate-parentheses
 - [ ] https://leetcode.com/problems/gray-code
 
 Backtracking
@@ -50,4 +50,4 @@ Backtracking
 - [X] https://leetcode.com/problems/partition-to-k-equal-sum-subsets
 - [ ] https://leetcode.com/problems/sudoku-solver
 
-14/22 questions
+18/22 questions
