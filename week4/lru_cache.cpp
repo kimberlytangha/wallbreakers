@@ -1,3 +1,6 @@
+// use a hm to store your <key, reference to node in dll>
+// use list (functions same as dll in cpp) to hold 
+// recently used keys at the head and least used keys at the tail 
 class LRUCache {
 public:
     int capacity; 

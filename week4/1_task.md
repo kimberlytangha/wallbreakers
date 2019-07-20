@@ -42,7 +42,7 @@ Combinatorial generation
 - [X] https://leetcode.com/problems/permutations
 - [X] https://leetcode.com/problems/combinations
 - [X] https://leetcode.com/problems/generate-parentheses
-- [ ] https://leetcode.com/problems/gray-code
+- [X] https://leetcode.com/problems/gray-code
 
 Backtracking
 - [X] https://leetcode.com/problems/combination-sum
@@ -50,4 +50,4 @@ Backtracking
 - [X] https://leetcode.com/problems/partition-to-k-equal-sum-subsets
 - [ ] https://leetcode.com/problems/sudoku-solver
 
-18/22 questions
+19/22 questions
