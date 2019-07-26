@@ -59,6 +59,7 @@ public:
                 // traverse further down tree    
                 stk1.push(n1->left);
                 stk1.push(n1->right);
+                
                 stk2.push(n2->left);
                 stk2.push(n2->right);
             } else if (!n1 && !n2) {
