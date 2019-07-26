@@ -14,8 +14,8 @@ Trees
 - [X] https://leetcode.com/problems/same-tree
 - [X] https://leetcode.com/problems/sum-of-left-leaves
 - [X] https://leetcode.com/problems/diameter-of-binary-tree
-- [ ] https://leetcode.com/problems/longest-univalue-path
-- [ ] https://leetcode.com/problems/find-bottom-left-tree-value
+- [X] https://leetcode.com/problems/longest-univalue-path
+- [X] https://leetcode.com/problems/find-bottom-left-tree-value
 
 Graphs
 - [ ] https://leetcode.com/problems/course-schedule
@@ -26,4 +26,4 @@ Graphs
 - [ ] https://leetcode.com/problems/longest-increasing-path-in-a-matrix
 - [ ] https://leetcode.com/problems/network-delay-time
 
-5/14 questions
+7/14 questions
