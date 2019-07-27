@@ -2,6 +2,24 @@
 // Iterative Solution  //
 /////////////////////////
 
+// time O(n)
+// space O(1) 
+int maxProfits(vector<int> prices) {  
+  int n = prices.size()-1;
+  int profit = 0; 
+  
+  for (int i = 0; i < n; i++) {
+    if (prices[i] < prices[i+1])
+      profit += prices[i+1] - prices[i];
+  }  
+  
+  return profit; 
+}
+
+/////////////////////////
+// Iterative Solution  //
+/////////////////////////
+
 class Solution {
 public:
     // time O(n^2) set buy-sell for every possible pair 

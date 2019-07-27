@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // Idea is to check binary from 0..2^n to see if 
+    // Idea is to use bit manipulation from 0..2^n to see if 
     // an element belongs or does not belong in a given subset
     
     // time O(n*m)
@@ -9,6 +9,7 @@ public:
         int n = nums.size();
         // int numSubs = pow(2, n);
         int numSubs = 1 << n;
+        // represents buckets 
         vector<vector<int>> res(numSubs);
         
         // outer loops through each array in res
