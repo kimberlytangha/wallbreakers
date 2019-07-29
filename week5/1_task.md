@@ -19,11 +19,11 @@ Trees
 
 Graphs
 - [ ] https://leetcode.com/problems/course-schedule
-- [ ] https://leetcode.com/problems/island-perimeter
+- [X] https://leetcode.com/problems/island-perimeter
 - [ ] https://leetcode.com/problems/is-graph-bipartite
-- [ ] https://leetcode.com/problems/word-search
+- [X] https://leetcode.com/problems/word-search
 - [ ] https://leetcode.com/problems/course-schedule-ii
 - [ ] https://leetcode.com/problems/longest-increasing-path-in-a-matrix
 - [ ] https://leetcode.com/problems/network-delay-time
 
-7/14 questions
+9/14 questions
