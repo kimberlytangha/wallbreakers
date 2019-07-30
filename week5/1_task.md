@@ -18,12 +18,12 @@ Trees
 - [X] https://leetcode.com/problems/find-bottom-left-tree-value
 
 Graphs
-- [ ] https://leetcode.com/problems/course-schedule
+- [X] https://leetcode.com/problems/course-schedule
 - [X] https://leetcode.com/problems/island-perimeter
-- [ ] https://leetcode.com/problems/is-graph-bipartite
+- [X] https://leetcode.com/problems/is-graph-bipartite
 - [X] https://leetcode.com/problems/word-search
 - [ ] https://leetcode.com/problems/course-schedule-ii
 - [ ] https://leetcode.com/problems/longest-increasing-path-in-a-matrix
 - [ ] https://leetcode.com/problems/network-delay-time
 
-9/14 questions
+11/14 questions
